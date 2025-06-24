@@ -1,6 +1,6 @@
 <!-- 🚀 Banner at the Top -->
 <p align="center">
-  <img src="./github bg edited 2.png" alt="Profile Banner" width="100%"/>
+  <img src="./github bg edited 2.PNG" alt="Profile Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Arnav Panchal</h1>
@@ -32,7 +32,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,sql" />
-  <img src="./gif github.png" alt="Coding Character" width="120px" align="right"/>
 </p>
 
 ### 🔌 Web Development
