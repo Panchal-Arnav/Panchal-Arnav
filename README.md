@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github bg edited" alt="Profile Banner" width="100%"/>
+  <img src="github bg edited.pdf" alt="Profile Banner" width="100%"/>
 </p>
 <h1 align="center">Hi 👋, I'm Arnav Panchal</h1>
 <h3 align="center">💻 MERN Stack Developer | 🎓 BCA Graduate | 🧠 Tech Educator @ BinaryBeard</h3>
