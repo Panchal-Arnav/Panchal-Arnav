@@ -1,6 +1,6 @@
 <!-- 🚀 Banner at the Top -->
 <p align="center">
-  <img src="./github bg edited.png" alt="Profile Banner" width="100%"/>
+  <img src="./github bg edited 2.png" alt="Profile Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Arnav Panchal</h1>
