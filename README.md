@@ -1,6 +1,8 @@
+<!-- 🚀 Banner at the Top -->
 <p align="center">
-  <img src="github bg edited.pdf" alt="Profile Banner" width="100%"/>
+  <img src="./github bg edited.png" alt="Profile Banner" width="100%"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Arnav Panchal</h1>
 <h3 align="center">💻 MERN Stack Developer | 🎓 BCA Graduate | 🧠 Tech Educator @ BinaryBeard</h3>
 
@@ -30,6 +32,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,sql" />
+  <img src="./gif github.png" alt="Coding Character" width="120px" align="right"/>
 </p>
 
 ### 🔌 Web Development
@@ -87,5 +90,5 @@
 
 ---
 
-> 🌟 "Be curious. Be creative. Be consistent."
+> 🌟 "Be curious. Be creative. Be consistent."  
 > 💻 Let's build the future together — one line of code at a time.
